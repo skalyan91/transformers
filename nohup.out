@@ -1,0 +1,272 @@
+[I 17:11:35.874 NotebookApp] Serving notebooks from local directory: /Users/sivakalyan/Programming/Python/transformers
+[I 17:11:35.874 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 17:11:35.874 NotebookApp] http://localhost:8888/?token=f0d106d40aab6719dfcb4542c9935429b1a9d4cf8658c86e
+[I 17:11:35.874 NotebookApp]  or http://127.0.0.1:8888/?token=f0d106d40aab6719dfcb4542c9935429b1a9d4cf8658c86e
+[I 17:11:35.874 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:11:35.885 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/sivakalyan/Library/Jupyter/runtime/nbserver-3431-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=f0d106d40aab6719dfcb4542c9935429b1a9d4cf8658c86e
+     or http://127.0.0.1:8888/?token=f0d106d40aab6719dfcb4542c9935429b1a9d4cf8658c86e
+[W 17:11:38.538 NotebookApp] 404 GET /apple-touch-icon-precomposed.png (::1) 9.160000ms referer=None
+[W 17:11:38.547 NotebookApp] 404 GET /apple-touch-icon.png (::1) 1.820000ms referer=None
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 17:11:54.734 NotebookApp] Creating new notebook in 
+[I 17:12:02.326 NotebookApp] Kernel started: e024e8fe-ed73-42ab-9aed-ae2b5d19a9c6, name: python3
+[W 17:12:02.329 NotebookApp] 404 GET /nbextensions/widgets/notebook/js/extension.js?v=20230519171135 (::1) 1.380000ms referer=http://localhost:8888/notebooks/Untitled.ipynb?kernel_name=python3
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 17:13:55.560 NotebookApp] Saving file at /Untitled.ipynb
+/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/nbformat/__init__.py:129: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 17:14:04.159 NotebookApp] Starting buffering for e024e8fe-ed73-42ab-9aed-ae2b5d19a9c6:e7a18dfdb2be46bc8c174a2462542607
+[I 17:14:04.596 NotebookApp] Kernel restarted: e024e8fe-ed73-42ab-9aed-ae2b5d19a9c6
+[I 17:14:04.674 NotebookApp] Restoring connection for e024e8fe-ed73-42ab-9aed-ae2b5d19a9c6:e7a18dfdb2be46bc8c174a2462542607
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 17:14:05.678 NotebookApp] Replaying 3 buffered messages
+[I 17:15:55.552 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:17:55.538 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:18:04.393 NotebookApp] Kernel interrupted: e024e8fe-ed73-42ab-9aed-ae2b5d19a9c6
+[I 17:19:55.543 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:21:55.550 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:23:55.545 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:29:55.533 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:31:55.516 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:33:55.537 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:35:55.504 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:37:55.516 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:39:34.734 NotebookApp] Saving file at /Untitled.ipynb
+[I 17:43:55.525 NotebookApp] Saving file at /Text Generation.ipynb
+[I 17:45:55.519 NotebookApp] Saving file at /Text Generation.ipynb
+[I 17:47:55.564 NotebookApp] Saving file at /Text Generation.ipynb
+[I 17:51:55.507 NotebookApp] Saving file at /Text Generation.ipynb
+[I 17:53:55.540 NotebookApp] Saving file at /Text Generation.ipynb
+[I 17:55:11.837 NotebookApp] Starting buffering for e024e8fe-ed73-42ab-9aed-ae2b5d19a9c6:e7a18dfdb2be46bc8c174a2462542607
+[W 17:55:15.066 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 17:57:15.449 NotebookApp] Saving file at /Text Generation.ipynb
+[W 17:57:15.451 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 17:59:15.393 NotebookApp] Saving file at /Text Generation.ipynb
+[W 17:59:15.395 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:01:15.416 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:01:15.418 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:03:15.413 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:03:15.415 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:05:15.408 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:05:15.410 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:07:15.414 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:07:15.416 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:09:15.413 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:09:15.415 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:11:15.404 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:11:15.409 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:12:22.293 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:12:22.297 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:13:17.422 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:13:17.424 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:15:17.430 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:15:17.431 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:17:17.441 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:17:17.442 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:19:17.463 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:19:17.464 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:21:17.424 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:21:17.426 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:23:17.432 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:23:17.434 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:25:17.468 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:25:17.470 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:27:17.412 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:27:17.414 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:29:17.422 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:29:17.424 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:31:17.443 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:31:17.444 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:33:24.339 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:33:24.340 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:35:24.087 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:35:24.089 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:37:24.089 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:37:24.092 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:39:24.075 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:39:24.077 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:41:24.110 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:41:24.112 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:43:24.095 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:43:24.097 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:45:24.073 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:45:24.075 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:47:24.085 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:47:24.088 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:49:24.118 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:49:24.121 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 18:51:24.074 NotebookApp] Saving file at /Text Generation.ipynb
+[W 18:51:24.078 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 19:01:26.384 NotebookApp] Saving file at /Text Generation.ipynb
+[W 19:01:26.387 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 19:05:26.378 NotebookApp] Saving file at /Text Generation.ipynb
+[W 19:05:26.381 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 19:07:26.377 NotebookApp] Saving file at /Text Generation.ipynb
+[W 19:07:26.380 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 19:09:26.360 NotebookApp] Saving file at /Text Generation.ipynb
+[W 19:09:26.362 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 19:13:13.766 NotebookApp] Saving file at /Text Generation.ipynb
+[W 19:13:13.768 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 19:13:24.693 NotebookApp] Starting buffering for e024e8fe-ed73-42ab-9aed-ae2b5d19a9c6:988a395d71ae461181c5fc708e4d2f9d
+[W 19:13:25.219 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 19:15:25.531 NotebookApp] Saving file at /Text Generation.ipynb
+[W 19:15:25.533 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 19:19:25.486 NotebookApp] Saving file at /Text Generation.ipynb
+[W 19:19:25.488 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 19:21:25.485 NotebookApp] Saving file at /Text Generation.ipynb
+[W 19:21:25.487 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 19:23:25.482 NotebookApp] Saving file at /Text Generation.ipynb
+[W 19:23:25.483 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 19:25:25.504 NotebookApp] Saving file at /Text Generation.ipynb
+[W 19:25:25.506 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 19:29:25.554 NotebookApp] Saving file at /Text Generation.ipynb
+[W 19:29:25.556 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 19:31:09.834 NotebookApp] Starting buffering for e024e8fe-ed73-42ab-9aed-ae2b5d19a9c6:aa0196582055472c846a0110dd196e38
+[I 19:31:12.666 NotebookApp] Kernel restarted: e024e8fe-ed73-42ab-9aed-ae2b5d19a9c6
+[I 19:31:12.753 NotebookApp] Restoring connection for e024e8fe-ed73-42ab-9aed-ae2b5d19a9c6:aa0196582055472c846a0110dd196e38
+[I 19:31:12.753 NotebookApp] Replaying 1 buffered messages
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 19:31:25.409 NotebookApp] Saving file at /Text Generation.ipynb
+[W 19:31:25.410 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 19:33:31.832 NotebookApp] Saving file at /Text Generation.ipynb
+[I 19:35:25.564 NotebookApp] Saving file at /Text Generation.ipynb
+[I 19:37:25.495 NotebookApp] Saving file at /Text Generation.ipynb
+[I 19:45:25.498 NotebookApp] Saving file at /Text Generation.ipynb
+[I 19:46:27.665 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel e024e8fe-ed73-42ab-9aed-ae2b5d19a9c6 restarted
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 19:46:39.045 NotebookApp] Starting buffering for e024e8fe-ed73-42ab-9aed-ae2b5d19a9c6:aa0196582055472c846a0110dd196e38
+[I 19:46:39.392 NotebookApp] Kernel restarted: e024e8fe-ed73-42ab-9aed-ae2b5d19a9c6
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 19:46:40.419 NotebookApp] Restoring connection for e024e8fe-ed73-42ab-9aed-ae2b5d19a9c6:aa0196582055472c846a0110dd196e38
+[I 19:46:41.424 NotebookApp] Replaying 3 buffered messages
+[I 19:47:25.484 NotebookApp] Saving file at /Text Generation.ipynb
+[I 19:48:48.390 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel e024e8fe-ed73-42ab-9aed-ae2b5d19a9c6 restarted
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 19:49:15.263 NotebookApp] Starting buffering for e024e8fe-ed73-42ab-9aed-ae2b5d19a9c6:aa0196582055472c846a0110dd196e38
+[I 19:49:15.367 NotebookApp] Kernel shutdown: e024e8fe-ed73-42ab-9aed-ae2b5d19a9c6
+[I 19:49:24.574 NotebookApp] Shutting down on /api/shutdown request.
+[I 19:49:24.577 NotebookApp] Shutting down 0 kernels
+[I 19:49:24.578 NotebookApp] Shutting down 0 terminals
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                       
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
+[I 09:07:31.507 NotebookApp] Serving notebooks from local directory: /Users/sivakalyan/Programming/Python/transformers
+[I 09:07:31.508 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 09:07:31.508 NotebookApp] http://localhost:8888/?token=7ce699db13f624e8b2d816f97e4de8773f5628f28a0aaaf9
+[I 09:07:31.508 NotebookApp]  or http://127.0.0.1:8888/?token=7ce699db13f624e8b2d816f97e4de8773f5628f28a0aaaf9
+[I 09:07:31.508 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:07:31.526 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/sivakalyan/Library/Jupyter/runtime/nbserver-32620-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=7ce699db13f624e8b2d816f97e4de8773f5628f28a0aaaf9
+     or http://127.0.0.1:8888/?token=7ce699db13f624e8b2d816f97e4de8773f5628f28a0aaaf9
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[W 09:07:36.918 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 09:07:37.222 NotebookApp] Kernel started: a792c5dd-5d50-4e88-aa98-69025ed32926, name: python3
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 09:09:37.273 NotebookApp] Saving file at /Text Generation.ipynb
+[W 09:09:37.276 NotebookApp] Notebook Text Generation.ipynb is not trusted
+[I 10:51:06.285 NotebookApp] Saving file at /Text Generation.ipynb
+[I 10:51:35.857 NotebookApp] Kernel interrupted: a792c5dd-5d50-4e88-aa98-69025ed32926
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+[I 10:53:06.816 NotebookApp] Saving file at /Text Generation.ipynb
+[I 10:55:06.274 NotebookApp] Saving file at /Text Generation.ipynb
+/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/nbformat/__init__.py:129: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 11:03:06.238 NotebookApp] Saving file at /Text Generation.ipynb
+[I 11:08:45.884 NotebookApp] Starting buffering for a792c5dd-5d50-4e88-aa98-69025ed32926:e956febfc5bd41f9891d74c8c9805676
+[I 11:08:45.982 NotebookApp] Kernel shutdown: a792c5dd-5d50-4e88-aa98-69025ed32926
+[I 11:08:52.311 NotebookApp] Kernel started: 22445226-d03e-4c85-bc3e-373b65a50d7e, name: python3
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 11:10:52.365 NotebookApp] Saving file at /Text Generation.ipynb
+[I 11:12:52.332 NotebookApp] Saving file at /Text Generation.ipynb
+[I 11:18:52.380 NotebookApp] Saving file at /Text Generation.ipynb
+[I 11:20:52.328 NotebookApp] Saving file at /Text Generation.ipynb
+[I 11:24:52.924 NotebookApp] Saving file at /Text Generation.ipynb
+[I 11:27:03.789 NotebookApp] Saving file at /Text Generation.ipynb
+[I 11:37:54.559 NotebookApp] Saving file at /Text Generation.ipynb
+[I 11:40:04.512 NotebookApp] Saving file at /Text Generation.ipynb
+[I 11:42:14.542 NotebookApp] Saving file at /Text Generation.ipynb
+[I 11:46:34.561 NotebookApp] Saving file at /Text Generation.ipynb
+[I 11:48:44.518 NotebookApp] Saving file at /Text Generation.ipynb
+[I 11:50:54.519 NotebookApp] Saving file at /Text Generation.ipynb
+[I 11:51:39.594 NotebookApp] Saving file at /Text Generation.ipynb
+[I 11:52:04.919 NotebookApp] Saving file at /Text Generation.ipynb
+[I 11:53:04.533 NotebookApp] Saving file at /Text Generation.ipynb
+[I 11:55:14.515 NotebookApp] Saving file at /Text Generation.ipynb
+[I 12:08:01.663 NotebookApp] Saving file at /Text Generation.ipynb
+[I 12:10:12.364 NotebookApp] Saving file at /Text Generation.ipynb
+[I 12:12:20.901 NotebookApp] Starting buffering for 22445226-d03e-4c85-bc3e-373b65a50d7e:870ad631ca2245f5bfd380573a69b23c
+[I 12:12:26.776 NotebookApp] Kernel shutdown: 22445226-d03e-4c85-bc3e-373b65a50d7e
+[I 12:12:34.760 NotebookApp] Shutting down on /api/shutdown request.
+[I 12:12:34.775 NotebookApp] Shutting down 0 kernels
+[I 12:12:34.779 NotebookApp] Shutting down 0 terminals
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                       
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
