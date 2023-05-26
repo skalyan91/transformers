@@ -350,3 +350,36 @@ https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
 
 Please note that updating to Notebook 7 might break some of your extensions.
 
+[I 09:17:52.052 NotebookApp] Serving notebooks from local directory: /Users/sivakalyan/Programming/Python/transformers
+[I 09:17:52.052 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 09:17:52.052 NotebookApp] http://localhost:8888/?token=6bd49ff24b2397022e93e511cf7d021c725030065733c903
+[I 09:17:52.052 NotebookApp]  or http://127.0.0.1:8888/?token=6bd49ff24b2397022e93e511cf7d021c725030065733c903
+[I 09:17:52.052 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 09:17:52.062 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/sivakalyan/Library/Jupyter/runtime/nbserver-67310-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=6bd49ff24b2397022e93e511cf7d021c725030065733c903
+     or http://127.0.0.1:8888/?token=6bd49ff24b2397022e93e511cf7d021c725030065733c903
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 09:17:56.835 NotebookApp] Kernel started: 37cf9da6-7535-42b1-aa16-a5185117c675, name: python3
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 09:19:56.872 NotebookApp] Saving file at /Text Generation.ipynb
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+[I 09:21:58.785 NotebookApp] Saving file at /Text Generation.ipynb
+[I 09:22:17.828 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel 37cf9da6-7535-42b1-aa16-a5185117c675 restarted
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
