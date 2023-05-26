@@ -270,3 +270,83 @@ https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
 
 Please note that updating to Notebook 7 might break some of your extensions.
 
+[I 17:40:01.933 NotebookApp] Serving notebooks from local directory: /Users/sivakalyan/Programming/Python/transformers
+[I 17:40:01.933 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 17:40:01.933 NotebookApp] http://localhost:8888/?token=03fa608d3f27118eb29711a5034c20bd5121203dd9412d8e
+[I 17:40:01.933 NotebookApp]  or http://127.0.0.1:8888/?token=03fa608d3f27118eb29711a5034c20bd5121203dd9412d8e
+[I 17:40:01.933 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:40:01.941 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/sivakalyan/Library/Jupyter/runtime/nbserver-97790-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=03fa608d3f27118eb29711a5034c20bd5121203dd9412d8e
+     or http://127.0.0.1:8888/?token=03fa608d3f27118eb29711a5034c20bd5121203dd9412d8e
+[W 17:40:03.692 NotebookApp] 404 GET /apple-touch-icon-precomposed.png (::1) 8.560000ms referer=None
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[W 17:40:03.810 NotebookApp] 404 GET /apple-touch-icon.png (::1) 1.500000ms referer=None
+[I 17:40:08.392 NotebookApp] Kernel started: fa1777e9-6cd5-4629-a8b7-25ae020eb653, name: python3
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+[I 17:42:08.350 NotebookApp] Saving file at /Text Generation.ipynb
+[I 17:43:46.327 NotebookApp] Starting buffering for fa1777e9-6cd5-4629-a8b7-25ae020eb653:3c88e076454341a99e849b0ab648b130
+[I 17:43:49.108 NotebookApp] Kernel restarted: fa1777e9-6cd5-4629-a8b7-25ae020eb653
+[I 17:43:49.156 NotebookApp] Restoring connection for fa1777e9-6cd5-4629-a8b7-25ae020eb653:3c88e076454341a99e849b0ab648b130
+[I 17:43:49.156 NotebookApp] Replaying 1 buffered messages
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 17:44:08.325 NotebookApp] Saving file at /Text Generation.ipynb
+[I 17:46:08.428 NotebookApp] Saving file at /Text Generation.ipynb
+[I 17:50:08.472 NotebookApp] Saving file at /Text Generation.ipynb
+[I 17:52:08.434 NotebookApp] Saving file at /Text Generation.ipynb
+[I 17:55:43.115 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel fa1777e9-6cd5-4629-a8b7-25ae020eb653 restarted
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 17:56:08.499 NotebookApp] Saving file at /Text Generation.ipynb
+[I 18:13:27.413 NotebookApp] Starting buffering for fa1777e9-6cd5-4629-a8b7-25ae020eb653:3c88e076454341a99e849b0ab648b130
+[I 18:13:27.577 NotebookApp] Kernel restarted: fa1777e9-6cd5-4629-a8b7-25ae020eb653
+[I 18:13:27.613 NotebookApp] Restoring connection for fa1777e9-6cd5-4629-a8b7-25ae020eb653:3c88e076454341a99e849b0ab648b130
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 18:13:28.117 NotebookApp] Replaying 3 buffered messages
+[I 18:15:20.753 NotebookApp] Saving file at /Text Generation.ipynb
+[I 18:16:24.571 NotebookApp] KernelRestarter: restarting kernel (1/5), keep random ports
+WARNING:root:kernel fa1777e9-6cd5-4629-a8b7-25ae020eb653 restarted
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 18:16:33.208 NotebookApp] Starting buffering for fa1777e9-6cd5-4629-a8b7-25ae020eb653:3c88e076454341a99e849b0ab648b130
+[I 18:16:33.273 NotebookApp] Kernel shutdown: fa1777e9-6cd5-4629-a8b7-25ae020eb653
+[I 18:16:38.075 NotebookApp] Shutting down on /api/shutdown request.
+[I 18:16:38.077 NotebookApp] Shutting down 0 kernels
+[I 18:16:38.078 NotebookApp] Shutting down 0 terminals
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                       
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
