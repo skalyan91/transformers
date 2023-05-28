@@ -383,3 +383,562 @@ WARNING:root:kernel 37cf9da6-7535-42b1-aa16-a5185117c675 restarted
 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
 0.00s - to python to disable frozen modules.
 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 09:23:56.898 NotebookApp] Saving file at /Text Generation.ipynb
+[I 10:15:39.189 NotebookApp] Starting buffering for 37cf9da6-7535-42b1-aa16-a5185117c675:c133221b3464468e8d8c79eace7c5f3d
+[I 10:15:39.264 NotebookApp] Kernel shutdown: 37cf9da6-7535-42b1-aa16-a5185117c675
+[W 10:15:44.871 NotebookApp] Notebook skalyan.ipynb is not trusted
+[I 10:15:45.086 NotebookApp] Kernel started: ba51c5dd-78d0-4def-b092-8786838eabb9, name: python3
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 10:17:45.528 NotebookApp] Saving file at /skalyan.ipynb
+[W 10:17:45.531 NotebookApp] Notebook skalyan.ipynb is not trusted
+[I 10:27:45.108 NotebookApp] Saving file at /skalyan.ipynb
+[I 10:29:45.130 NotebookApp] Saving file at /skalyan.ipynb
+[I 10:31:45.129 NotebookApp] Saving file at /skalyan.ipynb
+[I 10:33:45.117 NotebookApp] Saving file at /skalyan.ipynb
+[I 10:36:24.255 NotebookApp] Saving file at /skalyan.ipynb
+[I 10:38:58.382 NotebookApp] Saving file at /skalyan.ipynb
+[I 10:44:03.247 NotebookApp] Saving file at /skalyan.ipynb
+[I 10:46:03.231 NotebookApp] Saving file at /skalyan.ipynb
+[I 10:48:03.221 NotebookApp] Saving file at /skalyan.ipynb
+[I 10:50:08.221 NotebookApp] Saving file at /skalyan.ipynb
+[I 10:52:08.104 NotebookApp] Saving file at /skalyan.ipynb
+[I 10:54:08.083 NotebookApp] Saving file at /skalyan.ipynb
+[I 10:56:08.088 NotebookApp] Saving file at /skalyan.ipynb
+[I 10:58:08.090 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:00:08.106 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:02:08.096 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:04:08.094 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:06:08.093 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:08:08.090 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:10:08.138 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:12:08.096 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:14:08.083 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:16:08.078 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:18:08.087 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:20:08.169 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:22:08.097 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:24:08.065 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:26:08.058 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:28:08.060 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:30:08.077 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:32:08.096 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:34:08.053 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:36:08.059 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:38:08.034 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:40:08.047 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:42:08.108 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:44:08.074 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:46:08.070 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:48:08.045 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:50:08.076 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:52:08.069 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:54:08.035 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:56:08.032 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:58:08.035 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:00:08.278 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:02:08.286 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:04:08.295 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:06:08.292 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:08:08.324 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:10:08.306 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:12:16.182 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:15:23.153 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:17:23.176 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:19:46.200 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:22:22.175 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:27:30.445 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:32:40.911 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:40:40.915 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:48:40.938 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:56:40.862 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:04:40.843 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:12:40.851 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:20:40.884 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:28:40.853 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:36:40.849 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:44:41.044 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:58:51.833 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:00:52.021 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:02:52.026 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:11:53.885 NotebookApp] Starting buffering for ba51c5dd-78d0-4def-b092-8786838eabb9:8fb1c93f7b6a48889ecadc08df245fb6
+[I 14:11:56.715 NotebookApp] Kernel restarted: ba51c5dd-78d0-4def-b092-8786838eabb9
+[I 14:11:56.752 NotebookApp] Restoring connection for ba51c5dd-78d0-4def-b092-8786838eabb9:8fb1c93f7b6a48889ecadc08df245fb6
+[I 14:11:56.752 NotebookApp] Replaying 1 buffered messages
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 14:12:54.744 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:14:54.752 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:16:54.717 NotebookApp] Saving file at /skalyan.ipynb
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+[I 14:18:54.779 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:20:54.724 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:22:54.726 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:24:54.724 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:26:54.731 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:30:54.745 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:32:55.018 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:34:55.029 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:36:55.034 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:38:55.047 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:40:55.035 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:43:14.291 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:46:55.627 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:49:52.948 NotebookApp] Saving file at /skalyan.ipynb
+[E 14:52:26.985 NotebookApp] Uncaught exception in ZMQStream callback
+    Traceback (most recent call last):
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 584, in _run_callback
+        f = callback(*args, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 308, in stream_callback
+        return callback(self, msg)
+               ^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/notebook/services/kernels/handlers.py", line 572, in _on_zmq_reply
+        super()._on_zmq_reply(stream, msg)
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/notebook/base/zmqhandlers.py", line 256, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 334, in write_message
+        return self.ws_connection.write_message(message, binary=binary)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 1081, in write_message
+        fut = self._write_frame(True, opcode, message, flags=flags)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 1056, in _write_frame
+        return self.stream.write(frame)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 539, in write
+        self._handle_write()
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 965, in _handle_write
+        self._write_buffer.advance(num_bytes)
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 182, in advance
+        assert 0 < size <= self._size
+               ^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError
+[E 14:52:27.002 NotebookApp] Uncaught exception in zmqstream callback
+    Traceback (most recent call last):
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 634, in _handle_events
+        self._handle_recv()
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 663, in _handle_recv
+        self._run_callback(callback, msg)
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 584, in _run_callback
+        f = callback(*args, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 308, in stream_callback
+        return callback(self, msg)
+               ^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/notebook/services/kernels/handlers.py", line 572, in _on_zmq_reply
+        super()._on_zmq_reply(stream, msg)
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/notebook/base/zmqhandlers.py", line 256, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 334, in write_message
+        return self.ws_connection.write_message(message, binary=binary)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 1081, in write_message
+        fut = self._write_frame(True, opcode, message, flags=flags)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 1056, in _write_frame
+        return self.stream.write(frame)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 539, in write
+        self._handle_write()
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 965, in _handle_write
+        self._write_buffer.advance(num_bytes)
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 182, in advance
+        assert 0 < size <= self._size
+               ^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError
+ERROR:asyncio:Exception in callback BaseAsyncIOLoop._handle_events(44, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(44, 1)>
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/platform/asyncio.py", line 192, in _handle_events
+    handler_func(fileobj, events)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 634, in _handle_events
+    self._handle_recv()
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 663, in _handle_recv
+    self._run_callback(callback, msg)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 584, in _run_callback
+    f = callback(*args, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 308, in stream_callback
+    return callback(self, msg)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/notebook/services/kernels/handlers.py", line 572, in _on_zmq_reply
+    super()._on_zmq_reply(stream, msg)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/notebook/base/zmqhandlers.py", line 256, in _on_zmq_reply
+    self.write_message(msg, binary=isinstance(msg, bytes))
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 334, in write_message
+    return self.ws_connection.write_message(message, binary=binary)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 1081, in write_message
+    fut = self._write_frame(True, opcode, message, flags=flags)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 1056, in _write_frame
+    return self.stream.write(frame)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 539, in write
+    self._handle_write()
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 965, in _handle_write
+    self._write_buffer.advance(num_bytes)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 182, in advance
+    assert 0 < size <= self._size
+           ^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+[I 14:56:41.404 NotebookApp] Saving file at /skalyan.ipynb
+[I 15:24:04.851 NotebookApp] Kernel interrupted: ba51c5dd-78d0-4def-b092-8786838eabb9
+[I 15:24:38.033 NotebookApp] Starting buffering for ba51c5dd-78d0-4def-b092-8786838eabb9:8fb1c93f7b6a48889ecadc08df245fb6
+[I 15:24:40.776 NotebookApp] Kernel restarted: ba51c5dd-78d0-4def-b092-8786838eabb9
+[I 15:24:40.825 NotebookApp] Restoring connection for ba51c5dd-78d0-4def-b092-8786838eabb9:8fb1c93f7b6a48889ecadc08df245fb6
+[I 15:24:40.825 NotebookApp] Replaying 1307 buffered messages
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 15:25:28.053 NotebookApp] Saving file at /skalyan.ipynb
+[I 15:27:28.113 NotebookApp] Saving file at /skalyan.ipynb
+[I 15:28:45.785 NotebookApp] Starting buffering for ba51c5dd-78d0-4def-b092-8786838eabb9:8fb1c93f7b6a48889ecadc08df245fb6
+[I 15:28:46.466 NotebookApp] Kernel restarted: ba51c5dd-78d0-4def-b092-8786838eabb9
+[I 15:28:46.519 NotebookApp] Restoring connection for ba51c5dd-78d0-4def-b092-8786838eabb9:8fb1c93f7b6a48889ecadc08df245fb6
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 15:28:47.522 NotebookApp] Replaying 3 buffered messages
+[I 15:29:28.065 NotebookApp] Saving file at /skalyan.ipynb
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+[I 15:31:28.105 NotebookApp] Saving file at /skalyan.ipynb
+[I 15:33:28.134 NotebookApp] Saving file at /skalyan.ipynb
+[I 15:35:28.133 NotebookApp] Saving file at /skalyan.ipynb
+[I 15:37:28.128 NotebookApp] Saving file at /skalyan.ipynb
+[I 15:39:28.155 NotebookApp] Saving file at /skalyan.ipynb
+[I 15:41:28.179 NotebookApp] Saving file at /skalyan.ipynb
+[I 15:43:28.211 NotebookApp] Saving file at /skalyan.ipynb
+[I 15:46:01.062 NotebookApp] Saving file at /skalyan.ipynb
+[I 15:49:42.854 NotebookApp] Saving file at /skalyan.ipynb
+[I 15:54:48.548 NotebookApp] Saving file at /skalyan.ipynb
+[I 16:00:41.505 NotebookApp] Saving file at /skalyan.ipynb
+[I 16:08:41.970 NotebookApp] Saving file at /skalyan.ipynb
+[I 16:16:41.642 NotebookApp] Saving file at /skalyan.ipynb
+[I 16:24:41.493 NotebookApp] Saving file at /skalyan.ipynb
+[I 16:32:41.477 NotebookApp] Saving file at /skalyan.ipynb
+[I 16:40:41.452 NotebookApp] Saving file at /skalyan.ipynb
+[I 16:48:41.479 NotebookApp] Saving file at /skalyan.ipynb
+[I 16:53:46.858 NotebookApp] Saving file at /skalyan.ipynb
+[I 16:55:46.844 NotebookApp] Saving file at /skalyan.ipynb
+[I 16:57:50.131 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:00:16.209 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:03:14.162 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:07:30.683 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:12:41.611 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:20:41.577 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:22:41.588 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:24:41.573 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:26:41.585 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:28:41.614 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:30:41.611 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:32:41.703 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:34:41.715 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:36:41.698 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:38:41.726 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:40:41.718 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:42:41.727 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:44:46.996 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:47:28.483 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:50:27.476 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:52:41.690 NotebookApp] Saving file at /skalyan.ipynb
+[I 18:00:41.716 NotebookApp] Saving file at /skalyan.ipynb
+[I 18:08:31.391 NotebookApp] Saving file at /skalyan.ipynb
+[I 18:10:31.400 NotebookApp] Saving file at /skalyan.ipynb
+[I 18:12:31.419 NotebookApp] Saving file at /skalyan.ipynb
+[I 18:14:31.379 NotebookApp] Saving file at /skalyan.ipynb
+[I 18:16:31.401 NotebookApp] Saving file at /skalyan.ipynb
+[I 18:18:31.389 NotebookApp] Saving file at /skalyan.ipynb
+[I 18:20:31.380 NotebookApp] Saving file at /skalyan.ipynb
+[I 18:22:31.395 NotebookApp] Saving file at /skalyan.ipynb
+[I 18:24:31.383 NotebookApp] Saving file at /skalyan.ipynb
+[I 18:26:31.412 NotebookApp] Saving file at /skalyan.ipynb
+[I 18:28:31.423 NotebookApp] Saving file at /skalyan.ipynb
+[I 18:30:43.292 NotebookApp] Saving file at /skalyan.ipynb
+[I 18:33:23.841 NotebookApp] Saving file at /skalyan.ipynb
+[I 18:36:24.757 NotebookApp] Saving file at /skalyan.ipynb
+[E 20:19:21.765 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 695, in _handle_events
+        self._handle_write()
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 965, in _handle_write
+        self._write_buffer.advance(num_bytes)
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 182, in advance
+        assert 0 < size <= self._size
+               ^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError
+ERROR:asyncio:Exception in callback None()
+handle: <Handle cancelled>
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/platform/asyncio.py", line 192, in _handle_events
+    handler_func(fileobj, events)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 695, in _handle_events
+    self._handle_write()
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 965, in _handle_write
+    self._write_buffer.advance(num_bytes)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 182, in advance
+    assert 0 < size <= self._size
+           ^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+[I 20:19:21.778 NotebookApp] Starting buffering for ba51c5dd-78d0-4def-b092-8786838eabb9:8fb1c93f7b6a48889ecadc08df245fb6
+[I 20:23:31.394 NotebookApp] Restoring connection for ba51c5dd-78d0-4def-b092-8786838eabb9:8fb1c93f7b6a48889ecadc08df245fb6
+[I 20:23:31.398 NotebookApp] Replaying 2 buffered messages
+[I 20:23:59.495 NotebookApp] Saving file at /skalyan.ipynb
+[I 20:25:58.692 NotebookApp] Saving file at /skalyan.ipynb
+[I 20:27:58.694 NotebookApp] Saving file at /skalyan.ipynb
+[I 20:29:58.715 NotebookApp] Saving file at /skalyan.ipynb
+[I 20:31:58.722 NotebookApp] Saving file at /skalyan.ipynb
+[I 20:33:58.715 NotebookApp] Saving file at /skalyan.ipynb
+[I 20:35:58.718 NotebookApp] Saving file at /skalyan.ipynb
+[I 20:37:58.765 NotebookApp] Saving file at /skalyan.ipynb
+[I 20:39:58.734 NotebookApp] Saving file at /skalyan.ipynb
+[I 20:41:59.145 NotebookApp] Saving file at /skalyan.ipynb
+[I 20:43:59.147 NotebookApp] Saving file at /skalyan.ipynb
+[I 20:46:06.811 NotebookApp] Saving file at /skalyan.ipynb
+[I 20:49:48.221 NotebookApp] Saving file at /skalyan.ipynb
+[I 20:52:49.310 NotebookApp] Saving file at /skalyan.ipynb
+[I 20:57:24.544 NotebookApp] Saving file at /skalyan.ipynb
+[I 20:59:24.521 NotebookApp] Saving file at /skalyan.ipynb
+[I 21:01:24.512 NotebookApp] Saving file at /skalyan.ipynb
+[I 21:03:39.647 NotebookApp] Saving file at /skalyan.ipynb
+[I 21:07:16.129 NotebookApp] Saving file at /skalyan.ipynb
+[I 21:10:16.674 NotebookApp] Saving file at /skalyan.ipynb
+[I 21:13:24.655 NotebookApp] Saving file at /skalyan.ipynb
+[I 21:21:24.529 NotebookApp] Saving file at /skalyan.ipynb
+[I 21:23:24.501 NotebookApp] Saving file at /skalyan.ipynb
+[I 21:25:25.922 NotebookApp] Saving file at /skalyan.ipynb
+[I 21:28:06.966 NotebookApp] Saving file at /skalyan.ipynb
+[I 21:33:15.555 NotebookApp] Saving file at /skalyan.ipynb
+[I 21:37:24.619 NotebookApp] Saving file at /skalyan.ipynb
+[I 21:45:24.642 NotebookApp] Saving file at /skalyan.ipynb
+[I 21:53:24.694 NotebookApp] Saving file at /skalyan.ipynb
+[E 21:54:31.401 NotebookApp] Uncaught exception in ZMQStream callback
+    Traceback (most recent call last):
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 584, in _run_callback
+        f = callback(*args, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 308, in stream_callback
+        return callback(self, msg)
+               ^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/notebook/services/kernels/handlers.py", line 572, in _on_zmq_reply
+        super()._on_zmq_reply(stream, msg)
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/notebook/base/zmqhandlers.py", line 256, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 334, in write_message
+        return self.ws_connection.write_message(message, binary=binary)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 1081, in write_message
+        fut = self._write_frame(True, opcode, message, flags=flags)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 1056, in _write_frame
+        return self.stream.write(frame)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 533, in write
+        self._write_buffer.append(data)
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 157, in append
+        b += data  # type: ignore
+        ^^^^^^^^^
+    BufferError: Existing exports of data: object cannot be re-sized
+[E 21:54:31.409 NotebookApp] Uncaught exception in zmqstream callback
+    Traceback (most recent call last):
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 634, in _handle_events
+        self._handle_recv()
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 663, in _handle_recv
+        self._run_callback(callback, msg)
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 584, in _run_callback
+        f = callback(*args, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 308, in stream_callback
+        return callback(self, msg)
+               ^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/notebook/services/kernels/handlers.py", line 572, in _on_zmq_reply
+        super()._on_zmq_reply(stream, msg)
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/notebook/base/zmqhandlers.py", line 256, in _on_zmq_reply
+        self.write_message(msg, binary=isinstance(msg, bytes))
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 334, in write_message
+        return self.ws_connection.write_message(message, binary=binary)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 1081, in write_message
+        fut = self._write_frame(True, opcode, message, flags=flags)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 1056, in _write_frame
+        return self.stream.write(frame)
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 533, in write
+        self._write_buffer.append(data)
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 157, in append
+        b += data  # type: ignore
+        ^^^^^^^^^
+    BufferError: Existing exports of data: object cannot be re-sized
+ERROR:asyncio:Exception in callback BaseAsyncIOLoop._handle_events(44, 1)
+handle: <Handle BaseAsyncIOLoop._handle_events(44, 1)>
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/platform/asyncio.py", line 192, in _handle_events
+    handler_func(fileobj, events)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 634, in _handle_events
+    self._handle_recv()
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 663, in _handle_recv
+    self._run_callback(callback, msg)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 584, in _run_callback
+    f = callback(*args, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/zmq/eventloop/zmqstream.py", line 308, in stream_callback
+    return callback(self, msg)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/notebook/services/kernels/handlers.py", line 572, in _on_zmq_reply
+    super()._on_zmq_reply(stream, msg)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/notebook/base/zmqhandlers.py", line 256, in _on_zmq_reply
+    self.write_message(msg, binary=isinstance(msg, bytes))
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 334, in write_message
+    return self.ws_connection.write_message(message, binary=binary)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 1081, in write_message
+    fut = self._write_frame(True, opcode, message, flags=flags)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 1056, in _write_frame
+    return self.stream.write(frame)
+           ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 533, in write
+    self._write_buffer.append(data)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 157, in append
+    b += data  # type: ignore
+    ^^^^^^^^^
+BufferError: Existing exports of data: object cannot be re-sized
+[I 22:01:24.708 NotebookApp] Saving file at /skalyan.ipynb
+[I 22:09:24.681 NotebookApp] Saving file at /skalyan.ipynb
+[I 07:57:18.237 NotebookApp] Starting buffering for ba51c5dd-78d0-4def-b092-8786838eabb9:8fb1c93f7b6a48889ecadc08df245fb6
+[I 07:57:21.017 NotebookApp] Kernel restarted: ba51c5dd-78d0-4def-b092-8786838eabb9
+[I 07:57:21.073 NotebookApp] Restoring connection for ba51c5dd-78d0-4def-b092-8786838eabb9:8fb1c93f7b6a48889ecadc08df245fb6
+[I 07:57:21.073 NotebookApp] Replaying 871 buffered messages
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 07:57:29.736 NotebookApp] Saving file at /skalyan.ipynb
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+[I 07:59:29.805 NotebookApp] Saving file at /skalyan.ipynb
+[I 08:01:55.041 NotebookApp] Saving file at /skalyan.ipynb
+[I 08:04:02.239 NotebookApp] Saving file at /skalyan.ipynb
+[I 08:07:02.991 NotebookApp] Saving file at /skalyan.ipynb
+[I 08:11:19.547 NotebookApp] Saving file at /skalyan.ipynb
+[I 08:16:02.236 NotebookApp] Saving file at /skalyan.ipynb
+[I 08:18:02.235 NotebookApp] Saving file at /skalyan.ipynb
+[I 08:20:15.798 NotebookApp] Saving file at /skalyan.ipynb
+[I 08:23:03.015 NotebookApp] Saving file at /skalyan.ipynb
+[I 08:28:13.559 NotebookApp] Saving file at /skalyan.ipynb
+[I 08:33:23.998 NotebookApp] Saving file at /skalyan.ipynb
+[I 08:41:24.057 NotebookApp] Saving file at /skalyan.ipynb
+[I 08:49:23.983 NotebookApp] Saving file at /skalyan.ipynb
+[I 08:57:23.970 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:05:23.941 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:07:23.947 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:09:54.387 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:12:36.706 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:17:45.943 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:21:23.907 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:29:23.928 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:37:23.879 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:39:23.879 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:41:23.906 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:43:23.968 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:45:23.873 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:47:23.876 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:49:23.879 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:51:23.868 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:53:23.874 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:55:23.860 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:57:23.905 NotebookApp] Saving file at /skalyan.ipynb
+[I 09:59:24.384 NotebookApp] Saving file at /skalyan.ipynb
+[I 10:01:24.382 NotebookApp] Saving file at /skalyan.ipynb
+[I 10:35:31.888 NotebookApp] Saving file at /skalyan.ipynb
+[E 10:58:21.287 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 695, in _handle_events
+        self._handle_write()
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 965, in _handle_write
+        self._write_buffer.advance(num_bytes)
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 182, in advance
+        assert 0 < size <= self._size
+               ^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError
+ERROR:asyncio:Exception in callback None()
+handle: <Handle cancelled>
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/platform/asyncio.py", line 192, in _handle_events
+    handler_func(fileobj, events)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 695, in _handle_events
+    self._handle_write()
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 965, in _handle_write
+    self._write_buffer.advance(num_bytes)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 182, in advance
+    assert 0 < size <= self._size
+           ^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+[I 10:58:21.302 NotebookApp] Starting buffering for ba51c5dd-78d0-4def-b092-8786838eabb9:8fb1c93f7b6a48889ecadc08df245fb6
+[I 10:58:22.384 NotebookApp] Restoring connection for ba51c5dd-78d0-4def-b092-8786838eabb9:8fb1c93f7b6a48889ecadc08df245fb6
+[I 10:58:27.020 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:00:27.029 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:02:27.006 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:04:27.007 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:06:27.013 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:08:27.195 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:10:34.409 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:12:59.693 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:14:59.574 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:17:21.882 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:21:04.828 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:26:11.221 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:34:21.643 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:42:21.631 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:50:21.580 NotebookApp] Saving file at /skalyan.ipynb
+[I 11:58:21.595 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:06:21.524 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:14:21.446 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:22:21.420 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:30:22.272 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:34:49.186 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:36:49.191 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:38:49.178 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:40:49.171 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:42:49.165 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:44:49.267 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:46:49.273 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:49:49.415 NotebookApp] Saving file at /skalyan.ipynb
+[I 12:54:29.624 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:02:22.328 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:10:22.339 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:12:59.985 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:14:59.848 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:16:59.845 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:18:59.830 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:20:59.846 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:22:59.857 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:24:59.850 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:26:59.875 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:27:12.656 NotebookApp] Saving file at /skalyan.ipynb
+[I 13:28:59.974 NotebookApp] Saving file at /skalyan.ipynb
+[I 14:38:14.432 NotebookApp] Saving file at /skalyan.ipynb
