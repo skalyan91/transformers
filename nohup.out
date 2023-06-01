@@ -942,3 +942,440 @@ AssertionError
 [I 13:27:12.656 NotebookApp] Saving file at /skalyan.ipynb
 [I 13:28:59.974 NotebookApp] Saving file at /skalyan.ipynb
 [I 14:38:14.432 NotebookApp] Saving file at /skalyan.ipynb
+[I 18:32:27.924 NotebookApp] Starting buffering for ba51c5dd-78d0-4def-b092-8786838eabb9:8fb1c93f7b6a48889ecadc08df245fb6
+[I 18:32:28.000 NotebookApp] Kernel shutdown: ba51c5dd-78d0-4def-b092-8786838eabb9
+[I 18:32:35.911 NotebookApp] Shutting down on /api/shutdown request.
+[I 18:32:35.915 NotebookApp] Shutting down 0 kernels
+[I 18:32:35.919 NotebookApp] Shutting down 0 terminals
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                       
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
+[I 17:05:15.054 NotebookApp] Serving notebooks from local directory: /Users/sivakalyan/Programming/Python/transformers
+[I 17:05:15.054 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 17:05:15.054 NotebookApp] http://localhost:8888/?token=5996d4cbbec16a3e973b4628b3067e7bcecce69457fc097b
+[I 17:05:15.054 NotebookApp]  or http://127.0.0.1:8888/?token=5996d4cbbec16a3e973b4628b3067e7bcecce69457fc097b
+[I 17:05:15.054 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 17:05:15.062 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/sivakalyan/Library/Jupyter/runtime/nbserver-46534-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=5996d4cbbec16a3e973b4628b3067e7bcecce69457fc097b
+     or http://127.0.0.1:8888/?token=5996d4cbbec16a3e973b4628b3067e7bcecce69457fc097b
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 17:05:22.180 NotebookApp] Kernel started: 92f9c991-fb1e-486e-baaa-89e21f19b128, name: python3
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 17:07:21.782 NotebookApp] Saving file at /skalyan.ipynb
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+[I 17:11:21.781 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:13:21.761 NotebookApp] Saving file at /skalyan.ipynb
+[E 17:15:17.541 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 695, in _handle_events
+        self._handle_write()
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 965, in _handle_write
+        self._write_buffer.advance(num_bytes)
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 182, in advance
+        assert 0 < size <= self._size
+               ^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError
+Exception in callback None()
+handle: <Handle cancelled>
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.11/3.11.3/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/platform/asyncio.py", line 192, in _handle_events
+    handler_func(fileobj, events)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 695, in _handle_events
+    self._handle_write()
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 965, in _handle_write
+    self._write_buffer.advance(num_bytes)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 182, in advance
+    assert 0 < size <= self._size
+           ^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+[I 17:15:17.568 NotebookApp] Starting buffering for 92f9c991-fb1e-486e-baaa-89e21f19b128:309f5cf96f8544be8f5b28159540b6cc
+[I 17:15:18.988 NotebookApp] Restoring connection for 92f9c991-fb1e-486e-baaa-89e21f19b128:309f5cf96f8544be8f5b28159540b6cc
+[I 17:15:21.844 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:17:21.728 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:19:21.712 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:21:21.726 NotebookApp] Saving file at /skalyan.ipynb
+[I 17:21:49.294 NotebookApp] Starting buffering for 92f9c991-fb1e-486e-baaa-89e21f19b128:309f5cf96f8544be8f5b28159540b6cc
+[I 17:21:52.058 NotebookApp] Kernel restarted: 92f9c991-fb1e-486e-baaa-89e21f19b128
+[I 17:21:52.102 NotebookApp] Restoring connection for 92f9c991-fb1e-486e-baaa-89e21f19b128:309f5cf96f8544be8f5b28159540b6cc
+[I 17:21:52.102 NotebookApp] Replaying 3 buffered messages
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+[I 17:23:21.726 NotebookApp] Saving file at /skalyan.ipynb
+[W 17:25:56.598 NotebookApp] Notebook Basic_Text_Generation.ipynb is not trusted
+[I 17:25:57.111 NotebookApp] Kernel started: 36995c1a-aa28-4df0-87fa-8b4dd8eb0792, name: python3
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 17:26:25.600 NotebookApp] Starting buffering for 36995c1a-aa28-4df0-87fa-8b4dd8eb0792:c762259c5a9a41748390b5d219a92dbf
+[I 17:26:25.604 NotebookApp] Kernel shutdown: 36995c1a-aa28-4df0-87fa-8b4dd8eb0792
+[I 17:28:44.812 NotebookApp] Starting buffering for 92f9c991-fb1e-486e-baaa-89e21f19b128:309f5cf96f8544be8f5b28159540b6cc
+[I 17:28:44.857 NotebookApp] Kernel shutdown: 92f9c991-fb1e-486e-baaa-89e21f19b128
+[I 17:28:55.239 NotebookApp] Shutting down on /api/shutdown request.
+[I 17:28:55.242 NotebookApp] Shutting down 0 kernels
+[I 17:28:55.244 NotebookApp] Shutting down 0 terminals
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                       
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
+[I 14:18:44.446 NotebookApp] Serving notebooks from local directory: /Users/sivakalyan/Programming/Python/transformers
+[I 14:18:44.446 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 14:18:44.446 NotebookApp] http://localhost:8888/?token=673cbd70fa3006ec136ec4ea1683d9ea2767f16e78c8a617
+[I 14:18:44.446 NotebookApp]  or http://127.0.0.1:8888/?token=673cbd70fa3006ec136ec4ea1683d9ea2767f16e78c8a617
+[I 14:18:44.446 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 14:18:44.455 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/sivakalyan/Library/Jupyter/runtime/nbserver-4813-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=673cbd70fa3006ec136ec4ea1683d9ea2767f16e78c8a617
+     or http://127.0.0.1:8888/?token=673cbd70fa3006ec136ec4ea1683d9ea2767f16e78c8a617
+[W 14:18:45.997 NotebookApp] 404 GET /apple-touch-icon-precomposed.png (::1) 7.600000ms referer=None
+[W 14:18:46.004 NotebookApp] 404 GET /apple-touch-icon.png (::1) 2.960000ms referer=None
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[W 14:18:49.606 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 14:18:50.009 NotebookApp] Kernel started: e866115f-ee98-4617-a7d7-40b95feb8b03, name: python3
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+[I 14:20:49.942 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:20:49.944 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 14:26:49.928 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:26:49.929 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 14:27:48.642 NotebookApp] Kernel interrupted: e866115f-ee98-4617-a7d7-40b95feb8b03
+[I 14:27:55.495 NotebookApp] Starting buffering for e866115f-ee98-4617-a7d7-40b95feb8b03:c132007282fc4dc29a26a1fe797b531e
+[I 14:27:58.328 NotebookApp] Kernel restarted: e866115f-ee98-4617-a7d7-40b95feb8b03
+[I 14:27:58.338 NotebookApp] Restoring connection for e866115f-ee98-4617-a7d7-40b95feb8b03:c132007282fc4dc29a26a1fe797b531e
+[I 14:27:58.338 NotebookApp] Replaying 1 buffered messages
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 14:28:10.825 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:28:10.826 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 14:28:49.922 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:28:49.923 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+[I 14:30:50.001 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:30:50.004 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 14:32:49.937 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:32:49.938 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 14:34:49.930 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:34:49.931 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 14:36:49.928 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:36:49.929 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 14:38:49.928 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:38:49.929 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 14:40:49.924 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:40:49.925 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 14:42:49.921 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:42:49.922 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 14:44:49.918 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:44:49.919 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 14:46:49.918 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:46:49.920 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 14:48:49.921 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:48:49.922 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 14:50:49.915 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:50:49.916 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 14:52:49.925 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:52:49.927 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 14:54:50.676 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:54:50.678 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 14:56:51.679 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:56:51.680 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 14:58:52.684 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 14:58:52.685 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:00:53.681 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:00:53.682 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:02:54.688 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:02:54.689 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:04:55.684 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:04:55.685 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:06:55.834 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:06:55.836 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:08:55.688 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:08:55.689 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:10:55.695 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:10:55.696 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:12:55.697 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:12:55.699 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:14:55.700 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:14:55.702 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:16:55.701 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:16:55.702 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:18:55.716 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:18:55.718 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:21:13.235 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:21:13.236 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:23:13.346 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:23:13.348 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:25:13.346 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:25:13.347 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:27:13.360 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:27:13.362 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:29:13.363 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:29:13.366 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:31:13.371 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:31:13.373 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:33:13.373 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:33:13.375 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:35:13.367 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:35:13.367 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:37:13.376 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:37:13.378 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:39:13.381 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:39:13.382 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:41:13.398 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:41:13.399 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:43:13.484 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:43:13.485 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:45:13.485 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:45:13.485 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:47:13.579 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:47:13.582 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:49:13.526 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:49:13.527 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:51:13.508 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:51:13.510 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:53:13.512 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:53:13.515 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:55:13.513 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:55:13.515 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:57:13.535 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:57:13.539 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 15:59:13.509 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 15:59:13.510 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:01:13.526 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:01:13.527 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:03:13.586 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:03:13.588 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:05:13.596 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:05:13.599 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:07:13.602 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:07:13.604 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:09:13.603 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:09:13.604 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:11:13.608 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:11:13.609 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:13:13.618 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:13:13.620 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:15:13.611 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:15:13.612 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:17:13.620 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:17:13.621 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:19:13.667 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:19:13.668 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:21:13.680 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:21:13.681 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:23:13.688 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:23:13.689 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:25:13.687 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:25:13.689 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:27:13.685 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:27:13.688 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:29:13.710 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:29:13.711 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:31:13.697 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:31:13.698 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:33:13.706 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:33:13.707 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:35:13.706 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:35:13.707 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:37:13.709 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:37:13.710 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:39:13.713 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:39:13.716 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:41:13.718 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:41:13.720 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:43:22.843 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:43:22.845 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:46:56.832 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:46:56.834 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:49:10.959 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:49:10.960 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:53:27.605 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:53:27.606 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 16:56:52.222 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 16:56:52.222 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 17:03:32.245 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 17:03:32.247 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 17:05:32.249 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 17:05:32.250 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 17:07:35.012 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 17:07:35.014 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 17:09:34.827 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 17:09:34.828 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 17:11:34.822 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 17:11:34.825 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 17:13:34.824 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 17:13:34.826 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 17:15:34.808 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 17:15:34.810 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 17:17:34.802 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 17:17:34.803 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 17:19:34.797 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 17:19:34.798 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 17:21:34.801 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 17:21:34.803 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 17:23:34.790 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 17:23:34.792 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 17:25:34.869 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 17:25:34.871 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 17:28:32.247 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 17:28:32.247 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 17:31:53.477 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 17:31:53.478 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 17:52:12.118 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 17:52:12.119 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 17:54:39.426 NotebookApp] Kernel interrupted: e866115f-ee98-4617-a7d7-40b95feb8b03
+[I 17:56:12.125 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 17:56:12.126 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 17:58:12.138 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 17:58:12.140 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 18:03:27.047 NotebookApp] Kernel interrupted: e866115f-ee98-4617-a7d7-40b95feb8b03
+[I 18:03:33.343 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 18:03:33.344 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 18:04:12.133 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 18:04:12.134 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 18:06:12.141 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 18:06:12.143 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 18:08:12.145 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 18:08:12.146 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 20:32:22.121 NotebookApp] Starting buffering for e866115f-ee98-4617-a7d7-40b95feb8b03:c132007282fc4dc29a26a1fe797b531e
+[W 20:32:29.054 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 20:34:29.400 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 20:34:29.402 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 20:36:29.395 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 20:36:29.396 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 20:38:29.401 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 20:38:29.401 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 20:40:29.391 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 20:40:29.392 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 21:40:58.066 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 21:40:58.069 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 21:42:58.026 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 21:42:58.026 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 21:44:47.803 NotebookApp] Kernel interrupted: e866115f-ee98-4617-a7d7-40b95feb8b03
+[I 21:44:58.028 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 21:44:58.029 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 21:46:58.033 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 21:46:58.037 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 21:47:04.790 NotebookApp] Kernel interrupted: e866115f-ee98-4617-a7d7-40b95feb8b03
+[I 21:48:58.070 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 21:48:58.070 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 21:50:58.012 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 21:50:58.012 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 21:52:58.010 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 21:52:58.011 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 21:54:58.013 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 21:54:58.014 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 21:56:58.002 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 21:56:58.003 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 21:58:58.039 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 21:58:58.042 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:00:58.030 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 22:00:58.031 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:02:58.003 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 22:02:58.004 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:04:58.006 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 22:04:58.008 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:06:58.020 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 22:06:58.020 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:08:57.989 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 22:08:57.990 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:14:58.029 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 22:14:58.030 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:16:58.041 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 22:16:58.048 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:18:58.017 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 22:18:58.018 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:20:58.010 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 22:20:58.011 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:22:58.015 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 22:22:58.017 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:24:58.014 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 22:24:58.017 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:26:58.040 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 22:26:58.041 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:28:58.041 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 22:28:58.042 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:30:58.036 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 22:30:58.038 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:32:58.033 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 22:32:58.034 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:34:58.032 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 22:34:58.033 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:36:58.043 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 22:36:58.046 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:38:58.033 NotebookApp] Saving file at /skalyan_mps.ipynb
+[W 22:38:58.034 NotebookApp] Notebook skalyan_mps.ipynb is not trusted
+[I 22:42:56.223 NotebookApp] Starting buffering for e866115f-ee98-4617-a7d7-40b95feb8b03:a404f3e4f3e243978c468dfb13b98af5
+[I 22:42:56.252 NotebookApp] Kernel shutdown: e866115f-ee98-4617-a7d7-40b95feb8b03
+[I 22:43:00.879 NotebookApp] Shutting down on /api/shutdown request.
+[I 22:43:00.887 NotebookApp] Shutting down 0 kernels
+[I 22:43:00.892 NotebookApp] Shutting down 0 terminals
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                       
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
