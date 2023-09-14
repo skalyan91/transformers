@@ -1379,3 +1379,37 @@ https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
 
 Please note that updating to Notebook 7 might break some of your extensions.
 
+[I 19:18:56.936 NotebookApp] Serving notebooks from local directory: /Users/sivakalyan/Programming/Python/transformers
+[I 19:18:56.936 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 19:18:56.936 NotebookApp] http://localhost:8888/?token=ecb67185a0bd0271c83c8b6624d161302f80d2391d07bca1
+[I 19:18:56.936 NotebookApp]  or http://127.0.0.1:8888/?token=ecb67185a0bd0271c83c8b6624d161302f80d2391d07bca1
+[I 19:18:56.936 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 19:18:56.948 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/sivakalyan/Library/Jupyter/runtime/nbserver-89717-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=ecb67185a0bd0271c83c8b6624d161302f80d2391d07bca1
+     or http://127.0.0.1:8888/?token=ecb67185a0bd0271c83c8b6624d161302f80d2391d07bca1
+[W 19:18:58.578 NotebookApp] 404 GET /apple-touch-icon-precomposed.png (::1) 11.610000ms referer=None
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[W 19:18:58.706 NotebookApp] 404 GET /apple-touch-icon.png (::1) 120.950000ms referer=None
+[I 19:11:03.417 NotebookApp] Shutting down on /api/shutdown request.
+[I 19:11:03.431 NotebookApp] Shutting down 0 kernels
+[I 19:11:03.438 NotebookApp] Shutting down 0 terminals
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                       
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
