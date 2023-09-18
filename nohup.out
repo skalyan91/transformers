@@ -1413,3 +1413,568 @@ https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
 
 Please note that updating to Notebook 7 might break some of your extensions.
 
+[I 12:52:32.621 NotebookApp] Serving notebooks from local directory: /Users/sivakalyan/Programming/Python/transformers
+[I 12:52:32.622 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 12:52:32.622 NotebookApp] http://localhost:8888/?token=eb7a8102d0133db548c16561c754e06e01453ebad7bf10d6
+[I 12:52:32.622 NotebookApp]  or http://127.0.0.1:8888/?token=eb7a8102d0133db548c16561c754e06e01453ebad7bf10d6
+[I 12:52:32.622 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 12:52:32.636 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/sivakalyan/Library/Jupyter/runtime/nbserver-38202-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=eb7a8102d0133db548c16561c754e06e01453ebad7bf10d6
+     or http://127.0.0.1:8888/?token=eb7a8102d0133db548c16561c754e06e01453ebad7bf10d6
+[W 12:52:35.187 NotebookApp] 404 GET /apple-touch-icon-precomposed.png (::1) 16.930000ms referer=None
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[W 12:52:35.376 NotebookApp] 404 GET /apple-touch-icon.png (::1) 183.110000ms referer=None
+[W 12:52:35.391 NotebookApp] 404 GET /apple-touch-icon-precomposed.png (::1) 11.290000ms referer=None
+[W 12:52:35.400 NotebookApp] 404 GET /apple-touch-icon.png (::1) 1.010000ms referer=None
+[I 13:02:46.805 NotebookApp] Creating new notebook in 
+[I 13:02:47.572 NotebookApp] Kernel started: a9874208-daec-44b0-893a-41e601a3b7d5, name: python3
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 13:04:47.529 NotebookApp] Saving file at /Chapter 1.ipynb
+/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/nbformat/__init__.py:129: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/notebook/services/contents/manager.py:353: MissingIDFieldWarning: Code cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate_nb(model['content'])
+[I 13:08:47.543 NotebookApp] Saving file at /Chapter 1.ipynb
+[I 13:10:47.543 NotebookApp] Saving file at /Chapter 1.ipynb
+[I 13:12:49.951 NotebookApp] Saving file at /Chapter 1.ipynb
+[I 15:03:05.734 NotebookApp] Saving file at /Chapter 1.ipynb
+[I 15:05:05.776 NotebookApp] Saving file at /Chapter 1.ipynb
+[I 15:09:05.787 NotebookApp] Saving file at /Chapter 1.ipynb
+[I 15:25:14.967 NotebookApp] Starting buffering for a9874208-daec-44b0-893a-41e601a3b7d5:dc80b73d7bf94e80896f492e60791f97
+[W 15:25:15.151 NotebookApp] Notebook Chapter 1.ipynb is not trusted
+[I 15:27:15.254 NotebookApp] Saving file at /Chapter 1.ipynb
+[W 15:27:15.255 NotebookApp] Notebook Chapter 1.ipynb is not trusted
+[I 15:37:15.205 NotebookApp] Saving file at /Chapter 1.ipynb
+[W 15:37:15.206 NotebookApp] Notebook Chapter 1.ipynb is not trusted
+[I 15:39:15.207 NotebookApp] Saving file at /Chapter 1.ipynb
+[W 15:39:15.208 NotebookApp] Notebook Chapter 1.ipynb is not trusted
+[I 15:47:15.215 NotebookApp] Saving file at /Chapter 1.ipynb
+[W 15:47:15.217 NotebookApp] Notebook Chapter 1.ipynb is not trusted
+[I 15:49:15.210 NotebookApp] Saving file at /Chapter 1.ipynb
+[W 15:49:15.211 NotebookApp] Notebook Chapter 1.ipynb is not trusted
+[I 15:51:15.215 NotebookApp] Saving file at /Chapter 1.ipynb
+[W 15:51:15.217 NotebookApp] Notebook Chapter 1.ipynb is not trusted
+[I 15:53:15.213 NotebookApp] Saving file at /Chapter 1.ipynb
+[W 15:53:15.213 NotebookApp] Notebook Chapter 1.ipynb is not trusted
+[I 15:53:31.956 NotebookApp] Starting buffering for a9874208-daec-44b0-893a-41e601a3b7d5:389acd53c7cf452f834f2db4386cbaf5
+[I 15:53:34.894 NotebookApp] Kernel restarted: a9874208-daec-44b0-893a-41e601a3b7d5
+[I 15:53:34.902 NotebookApp] Restoring connection for a9874208-daec-44b0-893a-41e601a3b7d5:389acd53c7cf452f834f2db4386cbaf5
+[I 15:53:34.902 NotebookApp] Replaying 1 buffered messages
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 15:55:15.219 NotebookApp] Saving file at /Chapter 1.ipynb
+[I 15:59:15.215 NotebookApp] Saving file at /Chapter 1.ipynb
+[I 16:01:15.215 NotebookApp] Saving file at /Chapter 1.ipynb
+[I 16:03:04.200 NotebookApp] Starting buffering for a9874208-daec-44b0-893a-41e601a3b7d5:389acd53c7cf452f834f2db4386cbaf5
+[I 16:03:06.938 NotebookApp] Kernel restarted: a9874208-daec-44b0-893a-41e601a3b7d5
+[I 16:03:06.957 NotebookApp] Restoring connection for a9874208-daec-44b0-893a-41e601a3b7d5:389acd53c7cf452f834f2db4386cbaf5
+[I 16:03:06.958 NotebookApp] Replaying 1 buffered messages
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 16:03:15.216 NotebookApp] Saving file at /Chapter 1.ipynb
+[I 16:05:15.217 NotebookApp] Saving file at /Chapter 1.ipynb
+[I 22:08:14.120 NotebookApp] Starting buffering for a9874208-daec-44b0-893a-41e601a3b7d5:389acd53c7cf452f834f2db4386cbaf5
+[I 22:08:14.145 NotebookApp] Kernel shutdown: a9874208-daec-44b0-893a-41e601a3b7d5
+[I 12:33:54.129 NotebookApp] Creating new notebook in 
+[I 12:33:54.561 NotebookApp] Kernel started: 92168270-d81c-4455-9680-394ea8cf4824, name: python3
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 12:35:54.603 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:37:54.604 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:39:54.608 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:45:54.617 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:49:54.642 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:53:54.693 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:55:54.637 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:22:33.473 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:24:33.474 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:26:33.474 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:28:33.472 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:30:33.468 NotebookApp] Saving file at /Untitled.ipynb
+[I 13:43:16.748 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 13:45:16.749 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 13:47:16.752 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 13:49:16.754 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:50:33.628 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:52:33.625 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:54:33.626 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:56:33.626 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:58:33.623 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 15:00:33.625 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 19:06:11.194 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 19:08:11.203 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 09:07:13.377 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 09:09:13.361 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 09:11:13.358 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 09:13:13.367 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 09:17:13.357 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 09:19:13.357 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 09:21:13.354 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 09:23:13.284 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 09:27:13.304 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:16:56.913 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:24:56.959 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:26:56.980 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:30:56.947 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:32:56.940 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:34:56.940 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:36:56.930 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:38:56.936 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:40:56.934 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:42:56.923 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:43:07.210 NotebookApp] Starting buffering for 92168270-d81c-4455-9680-394ea8cf4824:c367dad1f4e4477091170acd5a1ae5ce
+[I 14:43:09.855 NotebookApp] Kernel restarted: 92168270-d81c-4455-9680-394ea8cf4824
+[I 14:43:09.870 NotebookApp] Restoring connection for 92168270-d81c-4455-9680-394ea8cf4824:c367dad1f4e4477091170acd5a1ae5ce
+[I 14:43:09.870 NotebookApp] Replaying 1 buffered messages
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 14:44:56.926 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:48:56.918 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:50:56.911 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 14:52:56.896 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 15:00:56.891 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 15:21:21.948 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 15:23:21.917 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 15:25:21.908 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 15:35:23.903 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 15:37:23.906 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 15:39:23.907 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 15:41:23.939 NotebookApp] Saving file at /Chapter 2.ipynb
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+[I 17:54:02.972 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 17:56:02.958 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 18:10:02.916 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 18:12:02.907 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 18:16:02.912 NotebookApp] Saving file at /Chapter 2.ipynb
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+[I 18:18:02.905 NotebookApp] Saving file at /Chapter 2.ipynb
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+[I 18:20:02.889 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 18:22:02.885 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 18:25:33.278 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 19:19:01.035 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 19:21:03.155 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 19:23:09.636 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 19:25:09.551 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 19:27:09.543 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 19:29:09.538 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 19:31:09.538 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 19:33:09.539 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 19:35:09.571 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 19:37:51.282 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 19:40:17.864 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 19:43:37.731 NotebookApp] Saving file at /Chapter 2.ipynb
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+[I 19:46:57.731 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 11:42:59.911 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 11:44:59.894 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 12:05:02.398 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 12:07:02.385 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 12:09:02.387 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 12:11:02.388 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 12:13:02.385 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 12:15:02.388 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 12:25:02.384 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 12:27:02.384 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 12:29:02.384 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 12:33:02.381 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 12:39:02.388 NotebookApp] Saving file at /Chapter 2.ipynb
+[W 12:39:36.594 NotebookApp] Notebook Basic_Text_Generation.ipynb is not trusted
+[I 12:39:37.112 NotebookApp] Kernel started: a8d8ac94-34d9-47f7-992d-86a4f746187d, name: python3
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 12:40:12.602 NotebookApp] Starting buffering for a8d8ac94-34d9-47f7-992d-86a4f746187d:3b022d5dcfc542d08d2f4cd39fa767fe
+[I 12:40:12.606 NotebookApp] Kernel shutdown: a8d8ac94-34d9-47f7-992d-86a4f746187d
+[I 12:40:18.617 NotebookApp] Kernel started: 9253d07f-2fd7-40ec-8c6a-3d733e441b77, name: python3
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[E 12:40:37.676 NotebookApp] Uncaught exception, closing connection.
+    Traceback (most recent call last):
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 695, in _handle_events
+        self._handle_write()
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 965, in _handle_write
+        self._write_buffer.advance(num_bytes)
+      File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 182, in advance
+        assert 0 < size <= self._size
+               ^^^^^^^^^^^^^^^^^^^^^^
+    AssertionError
+[W 12:40:37.683 NotebookApp] Write error on <socket.socket [closed] fd=-1, family=30, type=1, proto=0>: [Errno 9] Bad file descriptor
+Exception in callback None()
+handle: <Handle cancelled>
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.11/3.11.5/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/platform/asyncio.py", line 192, in _handle_events
+    handler_func(fileobj, events)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 695, in _handle_events
+    self._handle_write()
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 965, in _handle_write
+    self._write_buffer.advance(num_bytes)
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/iostream.py", line 182, in advance
+    assert 0 < size <= self._size
+           ^^^^^^^^^^^^^^^^^^^^^^
+AssertionError
+[I 12:40:37.685 NotebookApp] Starting buffering for 9253d07f-2fd7-40ec-8c6a-3d733e441b77:d4a23915604d442f8089e832064f7fda
+[I 12:40:38.765 NotebookApp] Restoring connection for 9253d07f-2fd7-40ec-8c6a-3d733e441b77:d4a23915604d442f8089e832064f7fda
+[I 12:41:48.291 NotebookApp] Starting buffering for 9253d07f-2fd7-40ec-8c6a-3d733e441b77:d4a23915604d442f8089e832064f7fda
+[I 12:41:48.294 NotebookApp] Kernel shutdown: 9253d07f-2fd7-40ec-8c6a-3d733e441b77
+[I 12:43:02.377 NotebookApp] Saving file at /Chapter 2.ipynb
+Task exception was never retrieved
+future: <Task finished name='Task-204437' coro=<WebSocketProtocol13.write_message.<locals>.wrapper() done, defined at /Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py:1085> exception=WebSocketClosedError()>
+Traceback (most recent call last):
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 1087, in wrapper
+    await fut
+tornado.iostream.StreamClosedError: Stream is closed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/homebrew/Cellar/python@3.11/3.11.5/Frameworks/Python.framework/Versions/3.11/lib/python3.11/asyncio/tasks.py", line 267, in __step
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "/Users/sivakalyan/Programming/Python/transformers/.venv/lib/python3.11/site-packages/tornado/websocket.py", line 1089, in wrapper
+    raise WebSocketClosedError()
+tornado.websocket.WebSocketClosedError
+[I 12:45:02.370 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 12:47:02.373 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 12:55:02.363 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 12:57:02.362 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 12:59:02.392 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 13:01:02.363 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 13:03:02.368 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 13:09:02.814 NotebookApp] Saving file at /Chapter 2.ipynb
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+[I 13:11:02.808 NotebookApp] Saving file at /Chapter 2.ipynb
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+huggingface/tokenizers: The current process just got forked, after parallelism has already been used. Disabling parallelism to avoid deadlocks...
+To disable this warning, you can either:
+	- Avoid using `tokenizers` before the fork if possible
+	- Explicitly set the environment variable TOKENIZERS_PARALLELISM=(true | false)
+[I 13:17:02.805 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 13:19:02.799 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 13:21:02.798 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 13:23:02.800 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 13:25:02.799 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 13:27:02.802 NotebookApp] Saving file at /Chapter 2.ipynb
+[I 13:43:19.215 NotebookApp] Starting buffering for 92168270-d81c-4455-9680-394ea8cf4824:c367dad1f4e4477091170acd5a1ae5ce
+[I 13:43:19.224 NotebookApp] Kernel shutdown: 92168270-d81c-4455-9680-394ea8cf4824
+[I 13:48:37.939 NotebookApp] Shutting down on /api/shutdown request.
+[I 13:48:37.941 NotebookApp] Shutting down 0 kernels
+[I 13:48:37.942 NotebookApp] Shutting down 0 terminals
+
+  _   _          _      _
+ | | | |_ __  __| |__ _| |_ ___
+ | |_| | '_ \/ _` / _` |  _/ -_)
+  \___/| .__/\__,_\__,_|\__\___|
+       |_|
+                       
+Read the migration plan to Notebook 7 to learn about the new features and the actions to take if you are using extensions.
+
+https://jupyter-notebook.readthedocs.io/en/latest/migrate_to_notebook7.html
+
+Please note that updating to Notebook 7 might break some of your extensions.
+
